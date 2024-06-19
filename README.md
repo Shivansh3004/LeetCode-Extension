@@ -43,3 +43,4 @@ To contribute to the development of this extension, follow these steps:
 * CSS
 * JavaScript
 * Chrome Extensions API
+
